@@ -8,15 +8,15 @@
 
 <p align="center">
   <!-- - 👨🏽‍💻 Linguagens de programação mais utilizadas: -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiryco&layout=compact&langs_count=16&theme=calm"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanl&layout=compact&langs_count=16&theme=calm"/>
 </p>
 
 📫  Networking 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn_PT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-andrade-lopes/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn_ES-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-andrade-lopes/?locale=es_ES)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius_anl/)
-[![Gmail Badge](https://img.shields.io/badge/vinicius.andlopes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.andlopes@gmail.com)
+<!--[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius_anl/)
+[![Gmail Badge](https://img.shields.io/badge/vinicius.andlopes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.andlopes@gmail.com)-->
 
 <div>
   <div class="row">
